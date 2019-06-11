@@ -18,13 +18,13 @@ export default class MenuPrincipal extends React.Component {
                                 <Menu.Item
                                     name='histórico'
                                     as={NavLink} to='/historico'
-                                />
+                                >Histórico</Menu.Item>
 
                                 <Menu.Menu position='right'>
                                     <Menu.Item
                                         name='configuração'
                                         as={NavLink} to='/config'
-                                    />
+                                    >Configuração</Menu.Item>
                                     <Menu.Item
                                         name='logout'
                                         as={NavLink} to='/logout'

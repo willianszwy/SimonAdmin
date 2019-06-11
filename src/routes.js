@@ -7,7 +7,7 @@ import Historico from './views/historico';
 import Configuracao from './views/config';
 
 const Routes = () => (
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
         <Switch>
             <Route exact path='/' component={Index} />
             <Route exact path='/home' component={Home} />

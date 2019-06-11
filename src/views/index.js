@@ -1,6 +1,7 @@
 import React from 'react';
-import { Button, Form, Grid, Header, Segment } from 'semantic-ui-react';
+import { Button, Form, Grid, Header, Segment, Image, GridRow } from 'semantic-ui-react';
 import { Link } from 'react-router-dom';
+import logo from './simon.png';
 
 const Index = () => (
 
@@ -14,8 +15,15 @@ const Index = () => (
         }
       `}
         </style>
+
         <Grid textAlign='center' style={{ height: '100%' }} verticalAlign='middle'>
+
             <Grid.Column style={{ maxWidth: 450 }}>
+
+
+                <Image size="small" className="painel-shadow" src={logo} circular centered />
+
+
                 <Segment inverted padded="very" className="painel-shadow">
                     <Header as='h1' color='white' textAlign='center'>
                         Entrar
