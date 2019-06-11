@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/SimonAdmin/static/css/main.f8281da9.chunk.css",
+    "main.js": "/SimonAdmin/static/js/main.bcd435f9.chunk.js",
+    "main.js.map": "/SimonAdmin/static/js/main.bcd435f9.chunk.js.map",
+    "runtime~main.js": "/SimonAdmin/static/js/runtime~main.4642fae6.js",
+    "runtime~main.js.map": "/SimonAdmin/static/js/runtime~main.4642fae6.js.map",
+    "static/css/2.14786dd8.chunk.css": "/SimonAdmin/static/css/2.14786dd8.chunk.css",
+    "static/js/2.93b0d8b8.chunk.js": "/SimonAdmin/static/js/2.93b0d8b8.chunk.js",
+    "static/js/2.93b0d8b8.chunk.js.map": "/SimonAdmin/static/js/2.93b0d8b8.chunk.js.map",
+    "index.html": "/SimonAdmin/index.html",
+    "precache-manifest.c21bd8683daeb43ab4df8c0c19e8ca4d.js": "/SimonAdmin/precache-manifest.c21bd8683daeb43ab4df8c0c19e8ca4d.js",
+    "service-worker.js": "/SimonAdmin/service-worker.js",
+    "static/css/2.14786dd8.chunk.css.map": "/SimonAdmin/static/css/2.14786dd8.chunk.css.map",
+    "static/css/main.f8281da9.chunk.css.map": "/SimonAdmin/static/css/main.f8281da9.chunk.css.map",
+    "static/media/semantic.min.css": "/SimonAdmin/static/media/outline-icons.ef60a4f6.woff"
+  }
+}
